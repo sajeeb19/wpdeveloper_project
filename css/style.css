@@ -1,0 +1,361 @@
+body{
+    background-color: #eef1f6;
+    font-family: 'Maven Pro', sans-serif;
+    font-size: 18px;
+    line-height: 1.5em;
+    margin: 0;
+    
+}
+.container{
+    margin: 0 auto;
+    max-width: 1520px;
+    width: 100%;
+    
+}
+#header{
+    background-image: url('./../image/Home-shop2.png');
+    background-size: 100% 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 1152px;
+    border: 1px black solid;
+
+    
+}
+.menu{
+    padding-top: 43px;
+    
+}
+.active{
+    color: #150e4b;
+}
+nav{
+    padding-top: 15px;
+}
+nav ul li a{
+    font-size: 16px;
+}
+
+.menu_btn{
+    width: 192px;
+    height: 60px;
+    border-radius: 20px;
+    border: 2px solid #fa2946;
+    margin-left: 168px;
+}
+
+.theme{
+    color: #150e4b;
+}
+.theme_muto{
+    color: #b7b6c0;
+}
+.theme_details{
+    margin-top: 260px;
+}
+.theme_btn{
+    background-color: #f73951;
+    border-radius: 19px;
+    width: 180px;
+    height: 76px;
+    color: #ffffff;
+    padding-top: 20px;
+}
+#need_a_gift{
+    background-color: #ffffff;
+    height: 298px;
+    border-radius: 20px;
+    margin-top: -150px;
+}
+
+.dp-btn{
+    width: 300px;
+    height: 68px;
+    border: 2px solid #f3f3f6;
+    border-radius: 18px;
+}
+
+.gft-btn{
+    background-color: #fa2947;
+    width: 230px;
+    height: 70px;
+    color: #ffffff;
+    border-radius: 15px;
+}
+/* .gft_order{
+    margin-top: 78px;
+} */
+.drop_down {
+    margin-left: 27px;
+    margin-top: 75px
+}
+.new_gft_btn{
+    margin-left: 27px;
+    margin-top: 115px
+}
+.pera{
+    color: #150e4b;
+}
+.logo1{
+    margin-top: 115px;
+}
+.bday_gft{
+    width: 320px;
+    height: 300px;
+    
+
+}
+.bday_card1{
+    background-image: url('./../image/Home-shop1.png');
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.bday_card2{
+    background-image: url('./../image/Home-shop4.png');
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.bday_card3{
+    background-image: url('./../image/Home-shop5.png');
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.bday_card4{
+    background-image: url('./../image/Home-shop6.png');
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#birthday_gift{
+    margin-top: 200px;
+}
+
+.card_taitle{
+    text-align: center;
+    font-size: 30px;
+    color: #ffffff;
+    padding-top: 229px;
+    
+}
+.card_taitle_3{
+    padding-top: 98px
+}
+.card-btn{
+    margin-left: 110px;
+    color: #ffffff;
+    width: 112px;
+    height: 49px;
+    border: 1px solid black;
+    border-radius: 15px;
+}
+.collection_taitle{
+    margin-top: 200px;
+}
+.collection_pera{
+    color: #150e4b;
+    font-size: 50px;
+    text-align: center;
+}
+.collection_item{
+    margin-left: 250px;
+    margin-top: 86px;
+}
+.btn-gp{
+    margin-right: 31px;
+    width: 230px;
+    height:66px;
+    border-radius: 20px;
+    border: 1px solid #d8dae5;
+}
+
+.btn_active{
+    background-color: #150e4b;
+    color: #ffffff;
+}
+.card-btn{
+    margin-left:0;
+    width: 125px;
+    height:50px;
+    border-radius: 20px;
+    border: 1px solid #d8dae5;
+    color: #150e4b;
+}
+.card{
+   
+    border-radius: 28px;
+}
+.crd{
+    margin-top: 80px;
+}
+.card-price{
+    font-size: 24px;
+    margin-left: 100px;
+}
+
+.view_btn{
+    margin-top: 81px;
+    margin-left: 45%;
+    background-color: #fa2947;
+    width:180px;
+    height: 80px;
+    color: #ffffff;
+    border-radius: 15px;
+}
+
+.appniness{
+    font-size: 50px;
+    color: #150e4b;
+    margin-left: 30%;
+    line-height: 60px;
+}
+#business{
+    margin-top: 100px;
+}
+
+.bp2{
+    padding-left: 52px;
+}
+
+
+.head1_whmu{
+    font-size: 50px;
+    color: #150e4b;
+    
+}
+
+
+.btn_whmu{
+    background-color: #fa2947;
+    width: 170px;
+    height: 70px;
+    color: #ffffff;
+    border-radius: 15px;
+}
+
+.discribe_part{
+    margin-top: 200px;
+}
+.discribe_part1{
+    padding-top: 56px;
+}
+
+.taitle_head{
+    font-size: 50px;
+    color: #150e4b;
+    text-align: center;
+}
+
+.details{
+    text-align: center;
+    margin-left: 170px;
+}
+.card_body_mesurement{
+    margin: 69px 0 49px 19px;
+    color: #150e4b;
+}
+
+.card_body_pera{
+    color: #c0c1cc;
+    padding-top: 36px;
+    padding-bottom: 54px;
+}
+
+.card_body_btn{
+
+    width: 120px;
+    height: 44px;
+    border: 1px solid #c0c1cc;
+    border-radius: 15px;
+}
+.nice{
+    background-color: #eef1f6;
+    border: 0;
+}
+#gratitute{
+    margin-top: 170px;
+    width: 100%;
+    height: 424px;
+    background-color: #ffffff;
+    border: 1px solid #ffffff;
+    border-radius: 15px;
+}
+.gratitute_theme{
+    padding-left: 106px;
+    padding-top: 136px;
+}
+.gratitute_head{
+    font-size: 40px;
+}
+.gratitute_pera{
+    padding-top: 56px;
+    line-height: 25px;
+    color: #8d8b9d;
+}
+.gratitute_btn_section{
+    padding-top: 80px;
+}
+.gratitute_btn{
+    
+    width: 356px;
+    height: 68px;
+    background-color: #fa2947;
+    color: #ffffff;
+    border-radius: 15px;
+}
+#footer{
+    margin-top: 168px;
+    margin-bottom: 168px;
+}
+
+.footer_social_media ul{
+    margin: 0;
+    padding: 0;
+    padding-left: 180px;
+    list-style: none;
+    text-align: left;
+}
+
+.footer_social_media ul li{
+   
+    display: inline-block;
+    margin-left: 10px;
+  
+}
+
+.footer_social_media ul li a{
+    display: block;
+    text-decoration: none;
+ }
+
+ .footer_social_media ul li a i{
+    background-color: #333333;
+    border-radius: 50%;
+    width: 45px;
+    height: 45px;
+    padding-top: 13px;
+    color: white;
+    text-align: center;
+}
+.footer_social_media ul li a i.fa-facebook-f{
+    background-color: #4668b2;
+
+}
+
+.footer_social_media ul li a i.fa-twitter{
+    background-color: #00ACEE;
+
+}
+.footer_social_media ul li a i.fa-linkedin-in{
+    background-color: #0076b4;
+
+}
+
+.footer_social_media ul li a i.fa-instagram{
+    background-color: #ca3174;
+
+}
